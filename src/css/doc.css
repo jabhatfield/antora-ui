@@ -617,7 +617,8 @@
 .doc .listingblock .title,
 .doc .openblock .title,
 .doc .videoblock .title,
-.doc .tableblock caption {
+.doc .tableblock caption,
+.api-title {
   color: var(--caption-font-color);
   font-size: calc(16 / var(--rem-base) * 1rem);
   font-style: var(--caption-font-style);
