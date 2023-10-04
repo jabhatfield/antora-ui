@@ -52,6 +52,11 @@ th {
   font-weight: var(--body-font-weight-bold);
 }
 
+th {
+  color: var(--color-white);
+  background: var(--color-dk-green);
+}
+
 sub,
 sup {
   font-size: 75%;
